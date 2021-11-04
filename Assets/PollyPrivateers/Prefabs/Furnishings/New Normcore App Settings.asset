@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1488926636, guid: c424820a8880b8845bda10ec0b41507e, type: 3}
-  m_Name: NormcoreAppSettings
+  m_Name: New Normcore App Settings
   m_EditorClassIdentifier: 
   _normcoreAppKey: 9f2c306a-5e7f-443d-81ec-19458cfcc5ea
   _matcherURL: wss://normcore-matcher.normcore.io:3000

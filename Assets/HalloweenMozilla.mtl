@@ -1,0 +1,69 @@
+newmtl Batch_of_Decors_4
+bump Batch of Decors 4_Normal.tga
+map_Kd Batch of Decors 4_Albedo.tga
+Kd 1 1 1
+d 1
+
+newmtl Chair2
+bump Chair2_Normal.tga
+map_Kd Chair2_Albedo.tga
+Kd 1 1 1
+d 1
+
+newmtl Batch_of_Decors_3
+bump Batch of decors 3_Normal.tga
+map_Kd Batch of decors 3_Albedo.tga
+Kd 1 1 1
+d 1
+
+newmtl BatchOfDecors
+bump Batch of Decors_Normal.tga
+map_Kd Batch of Decors_Albedo.tga
+Kd 1 1 1
+d 1
+
+newmtl BOF6
+bump Batch Of Decors 6_Normal.tga
+map_Kd Batch Of Decors 6_Albedo.tga
+Kd 1 1 1
+d 1
+
+newmtl Water_mat_01
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl Victorian_floral
+map_Kd Victorian floral.jpg
+Kd 0.5058824 0.5019608 0.5019608
+d 1
+
+newmtl Lace_swirl
+map_Kd Lace swirl.jpg
+Kd 1 1 1
+d 1
+
+newmtl stucco
+map_Kd stucco.jpg
+Kd 1 1 1
+d 1
+
+newmtl Wooden_planks
+map_Kd Wooden planks.jpg
+Kd 1 1 1
+d 1
+
+newmtl mat_fx_smoke_01
+map_Kd fx_smoke_01_d.tif
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl Rough_white_planks
+map_Kd Rough white planks.jpg
+Kd 1 1 1
+d 1
+
+newmtl Vertical_planks
+map_Kd Vertical planks.jpg
+Kd 1 1 1
+d 1
+
